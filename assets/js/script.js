@@ -38,7 +38,7 @@ $('#giphy-view').empty();
 var giphy = $(this).attr("data-name");
   // Constructing a queryURL using the giphy name
 var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
-    giphy + "&api_key=dc6zaTOxFJmzC&limit=12";
+    giphy + "&api_key=Y2syY5q6U4DRJv6MauT4qy1Pn26YlnyW&limit=32";
 //Performing an AJAX request to Giphy API
 console.log('clicked');
 $.ajax({
