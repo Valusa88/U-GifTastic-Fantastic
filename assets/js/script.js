@@ -1,5 +1,5 @@
 
-var giphys = ['Johnny English', 'Truman Show', 'Funny', 'O Brother, where', 'Matrix', 'Rock and Roll', 'Friends', 'Hats', 'Magnificent seven', 'Rocky' ]
+var giphys = ['Johnny English', 'Truman Show', 'Funny', 'O Brother, where', 'Matrix', 'Rock and Roll', 'Friends', 'Eagle', 'Magnificent seven', 'Rocky' ]
 
 //Creating giphy buttons for each item in the giphy array
 function renderButtons() {
